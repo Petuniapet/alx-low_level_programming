@@ -79,5 +79,5 @@
     * Entry point address
   * Format is identical to `readelf -h` (version `2.26.1`).
   * If an error occurs or the file is not an `ELF` file, the function displays a
-  corresponding error message to `stderr` and exits with a status value of `98`.
+  corresponding error message to `stderr` and exits with a status value of `98
 
